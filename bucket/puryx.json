@@ -1,13 +1,13 @@
 {
-    "version": "3.0.0",
+    "version": "3.1.0",
     "description": "Умная очистка и оптимизация Windows: 16 сканеров, безопасное удаление, NTFS Compact, приватность / Smart Windows cleaner and optimizer",
     "homepage": "https://github.com/Harbuzilia/Puryx",
     "license": "MIT",
-    "url": "https://github.com/Harbuzilia/Puryx/releases/download/v3.0.0/Puryx-3.0.0-portable-win-x64.exe",
-    "hash": "8693AFCBB70944EC9EB498743E5BB89DAB79139BA71A0994E565E7485B2A3D52",
+    "url": "https://github.com/Harbuzilia/Puryx/releases/download/v3.1.0/Puryx-3.1.0-portable-win-x64.exe",
+    "hash": "971da52b35b783239c92b06f6a577bc71ace564bebec1d4b7414b91804e24c63",
     "bin": [
         [
-            "Puryx-3.0.0-portable-win-x64.exe",
+            "Puryx-3.1.0-portable-win-x64.exe",
             "puryx"
         ]
     ],
